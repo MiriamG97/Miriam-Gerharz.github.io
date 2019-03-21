@@ -12,8 +12,6 @@ permalink: /publications/
 
 ## Paper
 
-Look at [Inspire](https://inspirehep.net/author/profile/M.Bies.1) to see my papers.
-
 1 | Antje Bergmann, Sandra Kircher, Dominik Setzler, Miriam Gerharz, and Carsten Rockstuhl [*A simple DPSS laser setup and experiments for undergraduates*](https://www.researchgate.net/publication/315697346_A_simple_DPSS_laser_setup_and_experiments_for_undergraduates), European Journal of Physics, 2016, doi:10.1088/0143-0807/38/1/014004
 
 <!--
