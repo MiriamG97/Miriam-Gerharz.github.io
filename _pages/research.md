@@ -5,11 +5,5 @@ permalink: /research/
 ---
 
 
-### Physics
-I am interested in physics...
-
-### Mathematics
-...and mathematics...
-
-### Software
-...and software
+### X-ray quantum optics
+I am interested in quantum optics, expecially X-ray quantum optics. Despite being a theoretical physicist most times, I also like to have driect access to experiment.
