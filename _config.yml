@@ -7,20 +7,20 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Martin Bies - academic homepage"
+title                    : "Miriam Gerharz - academic homepage"
 title_separator          : "-"
-name                     : &name "Martin Bies"
-description              : "Martin Bies's academic homepage"
-url                      : "https://mainzelfraeulein.github.io"
+name                     : &name "Miriam Gerharz"
+description              : "Miriam Gerharz's academic homepage"
+url                      : "https://miriam-gerharz.github.io"
 baseurl                  : ""
-repository               : "mainzelfraeulein/mainzelfraeulein.github.io"
+repository               : "miriam-gerharz/miriam-gerharz.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : mainzelfraeulein-github-io
+    shortname            : miriam-gerharz-github-io
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -79,10 +79,10 @@ analytics:
 # Site Author
 author:
   name             : *name
-  avatar           : "/picture.jpg"
-  bio              : "Doctor of physics"
-  location         : "Université Libre Bruxelles"
-  email            : "MartinBies@ulb.ac.be"
+  avatar           : "/Bewerbungsbild.jpg"
+  bio              : "Bachelor student of physics"
+  location         : "Heidelberg University"
+  email            : "gerharz@stud.uni-heidelberg.de"
   uri              :
   bitbucket        : # "math_barakat"
   codepen          :
@@ -90,13 +90,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "HereAround"
+  github           : "Miriam-Gerharz"
   gitlab           :
   google_plus      :
   keybase          : 
   instagram        :
   lastfm           :
-  linkedin         : "martin-bies-000a1156"
+  linkedin         : "miriam-gerharz-94b166183"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "10355/mohamed-barakat"
@@ -113,7 +113,7 @@ author:
 include:
   - .htaccess
   - _pages
-  - "CV_MartinBies.pdf"
+  - "CV_MiriamGerharz.pdf"
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
