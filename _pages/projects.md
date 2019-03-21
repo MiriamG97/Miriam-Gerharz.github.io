@@ -9,17 +9,15 @@ permalink: /projects/
 
 ## internships
 * 06.06.-01.07.16: <i> Karlsruher Institut für Technologie, Institut für theoretische Festkörperphysik </i> <br>
-    [Arbeitsgruppe von Prof. Dr. Carsten Rockstuhl](https://www.tfp.kit.edu/rockstuhl.php), betreut durch Dr. Antje Bergmann; <br>
-komplexe Versuchsreihe zur Vermessung eines Lasers (Ergebnisse flossen in ein Paper ein) sowie Justage eines Michelson-Interferometers mit integriertem Fabry-Pérot-
-Interferometer
+    [group of Prof. Dr. Carsten Rockstuhl](https://www.tfp.kit.edu/rockstuhl.php), supervised by Dr. Antje Bergmann; <br>
+    complex measurements of a laser (results became part of a paper) as well as adjusting of a Michelson interferometere wit integrated Fabry-Pérot interferometere
 
 * 27.07.-07.08.13: <i>Universität Duisburg, Fakultät für Physik </i> <br>
-    [Arbeitsgruppe von Prof. Dr. Marika Schleberger, Experimentalphysik](https://www.uni-due.de/physik/schleberger/nutegram_team_schlehberger); <br>
-    eigenständige Aufnahme von Bildern mit einem Elektronenmikroskop, kleine Simulationsprojekte sowie Einblick in komplexe Versuche mit hochionisierten Atomen und Graphen
+    [group of Prof. Dr. Marika Schleberger, Experimentalphysik](https://www.uni-due.de/physik/schleberger/nutegram_team_schlehberger); <br>
+    independent image taking with an electron microscope, small simulation projects and insight into komplex experiments with high ionised atoms and graphene
     
 *  29.07.-09.08.12: <i>Universität Koblenz, Abteilung Physik </i> <br>
-    [Arbeitsgruppe von Prof. Dr. Christian Fischer, Abteilung Physik](https://www.uni-koblenz-landau.de/de/koblenz/fb3/ifin/physik/ueberuns/arbeitsgruppen/agfischer); <br>
-    Abbau von Ultra-Hoch-Vakuum-Experimenten, Aufnahme von Bildern mit einem Rasterkraftmikroskop und einem Elektronenmikroskop sowie Testen von Versuchen für das
-    physikalische Praktikum
+    [group of Prof. Dr. Christian Fischer, Abteilung Physik](https://www.uni-koblenz-landau.de/de/koblenz/fb3/ifin/physik/ueberuns/arbeitsgruppen/agfischer); <br>
+    Destruction of UHV-experiments, image taking with atomic force microscope and electron microscope as well as testing experiments for the "physikalisches Praktikum"
 
 
