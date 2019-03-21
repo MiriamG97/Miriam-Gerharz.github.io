@@ -4,7 +4,7 @@ title: "Short Curriculum Vitae"
 permalink: /cv/
 ---
 
-<!--([Longer version as PDF](/CV_MartinBies.pdf))-->
+([Longer version as PDF](/CV_MiriamGerharz_english.pdf))
 
 since 2016
 :   Bachelor student at [University of Heidelberg](https://www.physik.uni-heidelberg.de/?lang=en) <br>
