@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "Contact"
-    url: /contact/
   - title: "Research"
     url: /research/
-  - title: "Teaching"
-    url: /teaching/
   - title: "Publications"
     url: /publications/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Projects"
+    url: /projects/
 #  - title: "Students"
 #    url: /students/
 #  - title: "Software"
@@ -16,5 +16,7 @@ main:
     url: /cv/
 #  - title: "Links"
 #    url: /links/
-  - title: "Conferences"
-    url: /conferences
+#  - title: "Conferences"
+#    url: /conferences
+  - title: "Contact"
+    url: /contact/
