@@ -1,2 +1,1 @@
-# Miriam-Gerharz.github.io
-My website
+# mainzelfraeulein.github.io
