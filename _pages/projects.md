@@ -18,6 +18,6 @@ permalink: /projects/
     
 *  29.07.-09.08.12: <i>Universität Koblenz, Abteilung Physik </i> <br>
     [group of Prof. Dr. Christian Fischer, Abteilung Physik](https://www.uni-koblenz-landau.de/de/koblenz/fb3/ifin/physik/ueberuns/arbeitsgruppen/agfischer); <br>
-    Destruction of UHV-experiments, image taking with atomic force microscope and electron microscope as well as testing experiments for the "physikalisches Praktikum"
+    Dismounting of UHV-experiments, image taking with atomic force microscope and electron microscope as well as testing experiments for the "physikalisches Praktikum"
 
 
